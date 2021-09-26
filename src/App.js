@@ -1,6 +1,8 @@
+import Routes from "./routes";
+
 function App() {
   return (
-    <>Olá new pc for react</>
+    <Routes/>
   );
 }
 
